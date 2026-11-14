@@ -1,0 +1,47 @@
+{
+  "business": {
+    "id": "chai-chapter",
+    "name": "Chai Chapter Café",
+    "shortName": "Chai Chapter",
+    "city": "Thane, Maharashtra",
+    "type": "cafe",
+    "timezone": "Asia/Kolkata",
+    "ownerName": "Kabir Naik",
+    "ownerWhatsapp": "+91 98200 11111",
+    "handle": "@chaichapter.thane",
+    "tagline": "Ek cup, ek kahani",
+    "createdAt": "2026-09-01T09:00:00+05:30"
+  },
+  "brandKit": {
+    "id": "bk-chai-chapter",
+    "businessId": "chai-chapter",
+    "colours": { "primary": "#C2562B", "secondary": "#E8A87C", "surface": "#FAF1E4", "accent": "#3B2A20" },
+    "fonts": { "heading": "Fredoka", "body": "Nunito" },
+    "logoUrl": null,
+    "tone": "hinglish",
+    "toneNote": "Friendly, playful Hinglish with café banter; short lines and light emoji.",
+    "languages": ["English", "Hindi (Roman)"],
+    "services": ["Cutting chai and filter coffee", "All-day breakfast", "Cloud kitchen delivery", "Birthday and small-party bookings"],
+    "offers": [
+      { "text": "Buy 1 get 1 on cutting chai every Tuesday 4–6 pm", "allowedInCaptions": true }
+    ],
+    "audience": "College students, young professionals and families in Thane West.",
+    "hashtagSets": [
+      { "name": "Core", "tags": ["#ChaiChapter", "#ThaneCafe", "#ThaneFoodies"] },
+      { "name": "Menu", "tags": ["#CuttingChai", "#CafeVibes"] }
+    ],
+    "rules": {
+      "dos": ["Show real food and real regulars", "Keep it cosy and playful"],
+      "donts": ["No fake reviews", "No competitor mentions", "No prices beyond the listed offer"]
+    },
+    "cta": "Walk in or order on WhatsApp."
+  },
+  "pillars": [
+    { "id": "cc-menu", "businessId": "chai-chapter", "name": "Menu highlights", "weight": 30, "colour": "#C2562B" },
+    { "id": "cc-counter", "businessId": "chai-chapter", "name": "Behind the counter", "weight": 20, "colour": "#8E5BC4" },
+    { "id": "cc-moments", "businessId": "chai-chapter", "name": "Customer moments", "weight": 20, "colour": "#D9667A" },
+    { "id": "cc-offers", "businessId": "chai-chapter", "name": "Offers", "weight": 10, "colour": "#E0A33C" },
+    { "id": "cc-festive", "businessId": "chai-chapter", "name": "Festive specials", "weight": 10, "colour": "#4F86D9" },
+    { "id": "cc-community", "businessId": "chai-chapter", "name": "Community", "weight": 10, "colour": "#3E8E7E" }
+  ]
+}

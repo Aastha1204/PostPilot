@@ -1,0 +1,164 @@
+[
+  {
+    "id": "diwali-2026",
+    "name": "Diwali (Lakshmi Pujan)",
+    "date": "2026-11-08",
+    "region": "Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "cafe",
+      "gym",
+      "salon",
+      "coaching",
+      "interior"
+    ],
+    "greetingStyle": "Warm, luminous, family-focused",
+    "requiresManualReview": true,
+    "verified": false
+  },
+  {
+    "id": "tulsi-vivah-2026",
+    "name": "Tulsi Vivah (start of wedding season)",
+    "date": "2026-11-21",
+    "region": "Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "interior"
+    ],
+    "greetingStyle": "Auspicious, warm, wedding-season opener",
+    "requiresManualReview": true,
+    "verified": false
+  },
+  {
+    "id": "guru-nanak-jayanti-2026",
+    "name": "Guru Nanak Jayanti",
+    "date": "2026-11-24",
+    "region": "Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "cafe",
+      "gym",
+      "salon",
+      "coaching",
+      "interior"
+    ],
+    "greetingStyle": "Respectful, inclusive, peaceful",
+    "requiresManualReview": true,
+    "verified": false
+  },
+  {
+    "id": "vivah-panchami-2026",
+    "name": "Vivah Panchami",
+    "date": "2026-12-14",
+    "region": "Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "interior"
+    ],
+    "greetingStyle": "Respectful, auspicious, wedding-focused",
+    "requiresManualReview": true,
+    "verified": false
+  },
+  {
+    "id": "christmas-2026",
+    "name": "Christmas",
+    "date": "2026-12-25",
+    "region": "Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "cafe",
+      "gym",
+      "salon",
+      "coaching",
+      "interior"
+    ],
+    "greetingStyle": "Cheerful and inclusive",
+    "requiresManualReview": true,
+    "verified": false
+  },
+  {
+    "id": "nye-2026",
+    "name": "New Year's Eve",
+    "date": "2026-12-31",
+    "region": "Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "cafe",
+      "gym",
+      "salon",
+      "coaching",
+      "interior"
+    ],
+    "greetingStyle": "Reflective, celebratory",
+    "requiresManualReview": true,
+    "verified": false
+  },
+  {
+    "id": "new-year-2027",
+    "name": "New Year's Day",
+    "date": "2027-01-01",
+    "region": "Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "cafe",
+      "gym",
+      "salon",
+      "coaching",
+      "interior"
+    ],
+    "greetingStyle": "Fresh-start, optimistic",
+    "requiresManualReview": true,
+    "verified": false
+  },
+  {
+    "id": "lohri-2027",
+    "name": "Lohri",
+    "date": "2027-01-13",
+    "region": "North India, Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "cafe",
+      "gym",
+      "salon",
+      "coaching",
+      "interior"
+    ],
+    "greetingStyle": "Warm, bonfire-and-harvest festive",
+    "requiresManualReview": true,
+    "verified": false
+  },
+  {
+    "id": "makar-sankranti-2027",
+    "name": "Makar Sankranti",
+    "date": "2027-01-14",
+    "region": "Maharashtra, Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "cafe",
+      "gym",
+      "salon",
+      "coaching",
+      "interior"
+    ],
+    "greetingStyle": "Sweet and kind; Marathi 'Tilgul ghya, goad goad bola' is appropriate",
+    "requiresManualReview": true,
+    "verified": false
+  },
+  {
+    "id": "republic-day-2027",
+    "name": "Republic Day",
+    "date": "2027-01-26",
+    "region": "Pan-India",
+    "applicableBusinessTypes": [
+      "wedding_planner",
+      "cafe",
+      "gym",
+      "salon",
+      "coaching",
+      "interior"
+    ],
+    "greetingStyle": "Proud, dignified",
+    "requiresManualReview": true,
+    "verified": false
+  }
+]

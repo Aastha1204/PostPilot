@@ -1,0 +1,310 @@
+[
+  {
+    "id": "chai-chapter-20261202-33",
+    "businessId": "chai-chapter",
+    "pillarId": "cc-menu",
+    "format": "image",
+    "title": "Cutting chai, the Chapter way",
+    "caption": "Ek cutting, ek kahani ☕\nStrong, sweet aur bilkul garam.\nWalk in or order on WhatsApp.",
+    "hashtags": [
+      "#ChaiChapter",
+      "#ThaneCafe",
+      "#CuttingChai"
+    ],
+    "cta": "Walk in or order on WhatsApp.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "Cutting chai, the Chapter way",
+      "subhead": "Menu highlight",
+      "badge": "Menu"
+    },
+    "photoTags": [
+      "chai"
+    ],
+    "scheduledAt": "2026-12-02T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "chai-chapter-20261204-34",
+    "businessId": "chai-chapter",
+    "pillarId": "cc-counter",
+    "format": "reel",
+    "title": "How we make cutting chai",
+    "caption": "Chai banti kaise hai? Counter ke peeche se dekhiye 👀\nEk quick reel, bina kisi secret ingredient ke.\nWalk in or order on WhatsApp.",
+    "hashtags": [
+      "#ChaiChapter",
+      "#ThaneCafe",
+      "#CafeVibes"
+    ],
+    "cta": "Walk in or order on WhatsApp.",
+    "visualBrief": "Reel: pour shot, steam, cheers. Add licensed music in the Instagram app.",
+    "templateId": "reel-cover",
+    "templateProps": {
+      "headline": "How we make cutting chai",
+      "subhead": "Behind the counter",
+      "badge": "Reel"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-04T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "chai-chapter-20261208-35",
+    "businessId": "chai-chapter",
+    "pillarId": "cc-offers",
+    "format": "image",
+    "title": "Tuesday chai time",
+    "caption": "Tuesday ka matlab chai time ☕\nBuy 1 get 1 on cutting chai every Tuesday 4–6 pm.\nWalk in or order on WhatsApp.",
+    "hashtags": [
+      "#ChaiChapter",
+      "#ThaneCafe",
+      "#CuttingChai"
+    ],
+    "cta": "Walk in or order on WhatsApp.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "offer",
+    "templateProps": {
+      "headline": "Tuesday chai time",
+      "badge": "Offer",
+      "body": "Buy 1 get 1 on cutting chai every Tuesday 4–6 pm",
+      "cta": "Walk in or order on WhatsApp."
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-08T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [
+      {
+        "kind": "time",
+        "text": "4–6 pm",
+        "status": "ok"
+      }
+    ],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "chai-chapter-20261211-36",
+    "businessId": "chai-chapter",
+    "pillarId": "cc-moments",
+    "format": "image",
+    "title": "A regular's corner table",
+    "caption": "Har café ka ek corner hota hai, jo kisi ka apna hota hai 💛\nThane ke regulars, humare asli heroes.\nWalk in or order on WhatsApp.",
+    "hashtags": [
+      "#ChaiChapter",
+      "#ThaneCafe",
+      "#ThaneFoodies"
+    ],
+    "cta": "Walk in or order on WhatsApp.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "The corner table",
+      "subhead": "Customer moments",
+      "badge": "Community"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-11T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "chai-chapter-20261215-37",
+    "businessId": "chai-chapter",
+    "pillarId": "cc-menu",
+    "format": "image",
+    "title": "Filter coffee, fresh pour",
+    "caption": "Filter coffee ki khushboo, subah ka pehla pyaar ☕\nFresh pour, har baar.\nWalk in or order on WhatsApp.",
+    "hashtags": [
+      "#ChaiChapter",
+      "#ThaneCafe",
+      "#CafeVibes"
+    ],
+    "cta": "Walk in or order on WhatsApp.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "Filter coffee, fresh pour",
+      "subhead": "Menu highlight",
+      "badge": "Menu"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-15T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "chai-chapter-20261218-38",
+    "businessId": "chai-chapter",
+    "pillarId": "cc-community",
+    "format": "carousel",
+    "title": "4 ways to enjoy chai with friends",
+    "caption": "Chai akele peeni hai ya sabke saath? 👯\nChaar tareeke jo har meetup ko khaas banate hain.\nWalk in or order on WhatsApp.",
+    "hashtags": [
+      "#ChaiChapter",
+      "#ThaneCafe",
+      "#ThaneFoodies"
+    ],
+    "cta": "Walk in or order on WhatsApp.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "tip-carousel",
+    "templateProps": {
+      "headline": "4 ways to enjoy chai with friends",
+      "subhead": "Swipe, sip, repeat",
+      "cta": "Walk in or order on WhatsApp.",
+      "slides": [
+        {
+          "title": "Share a table",
+          "body": "Big tables, bigger stories."
+        },
+        {
+          "title": "Order a round",
+          "body": "One cutting each, no debates."
+        },
+        {
+          "title": "Add a snack",
+          "body": "Pair it with all-day breakfast."
+        },
+        {
+          "title": "Stay a while",
+          "body": "Walk in or order on WhatsApp."
+        }
+      ]
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-18T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "chai-chapter-20261225-39",
+    "businessId": "chai-chapter",
+    "pillarId": "cc-festive",
+    "format": "image",
+    "title": "Christmas greeting",
+    "caption": "Merry Christmas from Chai Chapter 🎄\nAaj ki chai thodi extra meethi.\nWalk in or order on WhatsApp.",
+    "hashtags": [
+      "#ChaiChapter",
+      "#ThaneCafe",
+      "#CafeVibes"
+    ],
+    "cta": "Walk in or order on WhatsApp.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "festival",
+    "templateProps": {
+      "headline": "Merry Christmas",
+      "subhead": "Chai pe milte hain",
+      "badge": "25 Dec"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-25T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30",
+    "festivalId": "christmas-2026"
+  },
+  {
+    "id": "chai-chapter-20261229-40",
+    "businessId": "chai-chapter",
+    "pillarId": "cc-menu",
+    "format": "image",
+    "title": "All-day breakfast, plated",
+    "caption": "Subah ho ya shaam, breakfast humare yahan hamesha 🍳\nAll-day breakfast aur garam chai.\nWalk in or order on WhatsApp.",
+    "hashtags": [
+      "#ChaiChapter",
+      "#ThaneCafe",
+      "#ThaneFoodies"
+    ],
+    "cta": "Walk in or order on WhatsApp.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "All-day breakfast, plated",
+      "subhead": "Menu highlight",
+      "badge": "Menu"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-29T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "chai-chapter-20261231-41",
+    "businessId": "chai-chapter",
+    "pillarId": "cc-festive",
+    "format": "image",
+    "title": "New Year's Eve greeting",
+    "caption": "Saal ka aakhri cutting ☕✨\nSabko naya saal mubarak.\nWalk in or order on WhatsApp.",
+    "hashtags": [
+      "#ChaiChapter",
+      "#ThaneCafe",
+      "#CafeVibes"
+    ],
+    "cta": "Walk in or order on WhatsApp.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "festival",
+    "templateProps": {
+      "headline": "Naya saal mubarak",
+      "subhead": "Last cutting of the year",
+      "badge": "31 Dec"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-31T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30",
+    "festivalId": "nye-2026"
+  }
+]

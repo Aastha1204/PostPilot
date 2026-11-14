@@ -1,0 +1,47 @@
+{
+  "business": {
+    "id": "forge-fitness",
+    "name": "Forge Fitness Studio",
+    "shortName": "Forge Fitness",
+    "city": "Dombivli, Maharashtra",
+    "type": "gym",
+    "timezone": "Asia/Kolkata",
+    "ownerName": "Rohan Jadhav",
+    "ownerWhatsapp": "+91 98200 22222",
+    "handle": "@forgefitness.dombivli",
+    "tagline": "Train hard. Stay consistent.",
+    "createdAt": "2026-09-01T09:00:00+05:30"
+  },
+  "brandKit": {
+    "id": "bk-forge-fitness",
+    "businessId": "forge-fitness",
+    "colours": { "primary": "#B6F23A", "secondary": "#FFFFFF", "surface": "#16181B", "accent": "#B6F23A" },
+    "fonts": { "heading": "Barlow Condensed", "body": "Inter" },
+    "logoUrl": null,
+    "tone": "english",
+    "toneNote": "Direct, motivating English with a sprinkle of Hindi gym slang; no shaming, no miracle claims.",
+    "languages": ["English", "Hindi (Roman)"],
+    "services": ["Strength training", "Personal coaching", "Group HIIT classes", "Nutrition guidance basics"],
+    "offers": [
+      { "text": "Free trial week for new members in January", "allowedInCaptions": true }
+    ],
+    "audience": "Working professionals and students aged 18–40 in Dombivli and Kalyan.",
+    "hashtagSets": [
+      { "name": "Core", "tags": ["#ForgeFitness", "#DombivliGym", "#MumbaiFitness"] },
+      { "name": "Training", "tags": ["#StrengthTraining", "#HIIT"] }
+    ],
+    "rules": {
+      "dos": ["Share transformations only with written consent", "Keep advice safe and general"],
+      "donts": ["No fake reviews", "No competitor mentions", "No before/after without consent", "No fixed weight-loss promises"]
+    },
+    "cta": "DM us to book your trial session."
+  },
+  "pillars": [
+    { "id": "ff-transform", "businessId": "forge-fitness", "name": "Transformations", "weight": 20, "colour": "#B6F23A" },
+    { "id": "ff-tips", "businessId": "forge-fitness", "name": "Workout tips", "weight": 30, "colour": "#3E8E7E" },
+    { "id": "ff-trainer", "businessId": "forge-fitness", "name": "Trainer spotlight", "weight": 15, "colour": "#8E5BC4" },
+    { "id": "ff-offers", "businessId": "forge-fitness", "name": "Offers", "weight": 10, "colour": "#E08A3C" },
+    { "id": "ff-festive", "businessId": "forge-fitness", "name": "Festive challenges", "weight": 10, "colour": "#4F86D9" },
+    { "id": "ff-nutrition", "businessId": "forge-fitness", "name": "Nutrition basics", "weight": 15, "colour": "#D9667A" }
+  ]
+}

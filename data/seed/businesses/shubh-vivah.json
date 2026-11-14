@@ -1,0 +1,49 @@
+{
+  "business": {
+    "id": "shubh-vivah",
+    "name": "Shubh Vivah Events & Decor",
+    "shortName": "Shubh Vivah",
+    "city": "Kalyan, Maharashtra",
+    "type": "wedding_planner",
+    "timezone": "Asia/Kolkata",
+    "ownerName": "Riya Deshmukh",
+    "ownerWhatsapp": "+91 98200 00000",
+    "handle": "@shubhvivah.decor",
+    "tagline": "Mandaps, mehendi aur memories",
+    "createdAt": "2026-09-01T09:00:00+05:30"
+  },
+  "brandKit": {
+    "id": "bk-shubh-vivah",
+    "businessId": "shubh-vivah",
+    "colours": { "primary": "#6E1423", "secondary": "#C9A227", "surface": "#FBF6EC", "accent": "#1F3B2D" },
+    "fonts": { "heading": "Cormorant Garamond", "body": "Mulish" },
+    "logoUrl": null,
+    "tone": "hinglish",
+    "toneNote": "Warm, elegant Hinglish (about 60% English, 40% Hindi in Roman script), with occasional Marathi phrases for local festivals.",
+    "languages": ["English", "Hindi (Roman)", "Marathi"],
+    "services": ["Mandap décor", "Haldi and mehendi setups", "Sangeet stage design", "Floral entry and varmala", "Reception backdrops", "Destination wedding planning"],
+    "offers": [
+      { "text": "10% off décor for weddings in Feb–Mar 2027 when booked before 31 Dec 2026", "allowedInCaptions": true },
+      { "text": "Free haldi décor consultation for December bookings", "allowedInCaptions": true }
+    ],
+    "audience": "Couples aged 24–34 and their families in Kalyan, Dombivli, Thane and Navi Mumbai; mid to premium budget.",
+    "hashtagSets": [
+      { "name": "Core", "tags": ["#ShubhVivahDecor", "#KalyanWeddings", "#WeddingDecorMumbai"] },
+      { "name": "Seasonal", "tags": ["#WeddingSeason2026", "#ShaadiSeason"] },
+      { "name": "Service", "tags": ["#MandapDecor", "#HaldiDecor", "#SangeetNight"] }
+    ],
+    "rules": {
+      "dos": ["Show real setups", "Stay festive but classy", "Credit families only with permission"],
+      "donts": ["No fake reviews", "No competitor mentions", "No religious jokes", "No prices beyond the listed offers"]
+    },
+    "cta": "DM us or WhatsApp to book a site visit."
+  },
+  "pillars": [
+    { "id": "sv-portfolio", "businessId": "shubh-vivah", "name": "Portfolio showcase", "weight": 30, "colour": "#C9A227" },
+    { "id": "sv-tips", "businessId": "shubh-vivah", "name": "Planning tips", "weight": 20, "colour": "#3E8E7E" },
+    { "id": "sv-bts", "businessId": "shubh-vivah", "name": "Behind the scenes", "weight": 15, "colour": "#8E5BC4" },
+    { "id": "sv-stories", "businessId": "shubh-vivah", "name": "Client stories", "weight": 15, "colour": "#D9667A" },
+    { "id": "sv-offers", "businessId": "shubh-vivah", "name": "Offers", "weight": 10, "colour": "#E08A3C" },
+    { "id": "sv-festival", "businessId": "shubh-vivah", "name": "Festival greetings", "weight": 10, "colour": "#4F86D9" }
+  ]
+}

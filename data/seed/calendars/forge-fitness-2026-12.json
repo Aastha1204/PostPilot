@@ -1,0 +1,332 @@
+[
+  {
+    "id": "forge-fitness-20261201-42",
+    "businessId": "forge-fitness",
+    "pillarId": "ff-tips",
+    "format": "carousel",
+    "title": "4 form checks for your squat",
+    "caption": "Squat sahi hai ya nahi? Ye 4 checks karein 🏋️\nForm pehle, weight baad mein.\nDM us to book your trial session.",
+    "hashtags": [
+      "#ForgeFitness",
+      "#DombivliGym",
+      "#StrengthTraining"
+    ],
+    "cta": "DM us to book your trial session.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "tip-carousel",
+    "templateProps": {
+      "headline": "4 form checks for your squat",
+      "subhead": "Swipe before leg day",
+      "cta": "DM us to book your trial session.",
+      "slides": [
+        {
+          "title": "Brace your core",
+          "body": "Breathe in and tighten before you descend."
+        },
+        {
+          "title": "Knees track toes",
+          "body": "Keep them in line with your feet."
+        },
+        {
+          "title": "Chest up",
+          "body": "Eyes forward, spine long."
+        },
+        {
+          "title": "Ask a coach",
+          "body": "DM us to book your trial session."
+        }
+      ]
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-01T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "forge-fitness-20261204-43",
+    "businessId": "forge-fitness",
+    "pillarId": "ff-trainer",
+    "format": "image",
+    "title": "Meet the coaching team",
+    "caption": "Aapke goals ke peeche humare coaches hain 💪\nHar session mein personal attention.\nDM us to book your trial session.",
+    "hashtags": [
+      "#ForgeFitness",
+      "#DombivliGym",
+      "#MumbaiFitness"
+    ],
+    "cta": "DM us to book your trial session.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "Meet the coaching team",
+      "subhead": "Trainer spotlight",
+      "badge": "Coaches"
+    },
+    "photoTags": [
+      "team"
+    ],
+    "scheduledAt": "2026-12-04T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "forge-fitness-20261208-44",
+    "businessId": "forge-fitness",
+    "pillarId": "ff-nutrition",
+    "format": "carousel",
+    "title": "Protein basics",
+    "caption": "Protein ka matlab sirf shake nahi 🥚\nTeen simple basics jo har member ko pata hone chahiye.\nDM us to book your trial session.",
+    "hashtags": [
+      "#ForgeFitness",
+      "#DombivliGym",
+      "#MumbaiFitness"
+    ],
+    "cta": "DM us to book your trial session.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "tip-carousel",
+    "templateProps": {
+      "headline": "Protein basics",
+      "subhead": "Swipe for three basics",
+      "cta": "DM us to book your trial session.",
+      "slides": [
+        {
+          "title": "Eat it through the day",
+          "body": "Spread meals instead of one big serving."
+        },
+        {
+          "title": "Real food first",
+          "body": "Dal, eggs, paneer and curd count."
+        },
+        {
+          "title": "Keep it simple",
+          "body": "Consistency beats complicated plans."
+        }
+      ]
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-08T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "forge-fitness-20261215-45",
+    "businessId": "forge-fitness",
+    "pillarId": "ff-tips",
+    "format": "image",
+    "title": "Warm up before you lift",
+    "caption": "Warm-up skip mat karo 🔥\nPaanch minute ka warm-up chot se bachata hai.\nDM us to book your trial session.",
+    "hashtags": [
+      "#ForgeFitness",
+      "#DombivliGym",
+      "#StrengthTraining"
+    ],
+    "cta": "DM us to book your trial session.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "Warm up before you lift",
+      "subhead": "Workout tip",
+      "badge": "Tip"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-15T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "forge-fitness-20261218-46",
+    "businessId": "forge-fitness",
+    "pillarId": "ff-offers",
+    "format": "image",
+    "title": "Free trial week in January",
+    "caption": "January ke liye ready ho? 🚀\nFree trial week for new members in January.\nDM us to book your trial session.",
+    "hashtags": [
+      "#ForgeFitness",
+      "#DombivliGym",
+      "#HIIT"
+    ],
+    "cta": "DM us to book your trial session.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "offer",
+    "templateProps": {
+      "headline": "Start the year strong",
+      "badge": "Offer",
+      "body": "Free trial week for new members in January",
+      "cta": "DM us to book your trial session."
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-18T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "forge-fitness-20261222-47",
+    "businessId": "forge-fitness",
+    "pillarId": "ff-nutrition",
+    "format": "image",
+    "title": "Hydration check",
+    "caption": "Paani peena bhi training ka hissa hai 💧\nDin bhar thoda thoda, ek saath nahi.\nDM us to book your trial session.",
+    "hashtags": [
+      "#ForgeFitness",
+      "#DombivliGym",
+      "#MumbaiFitness"
+    ],
+    "cta": "DM us to book your trial session.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "Hydration check",
+      "subhead": "Nutrition basics",
+      "badge": "Nutrition"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-22T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "forge-fitness-20261225-48",
+    "businessId": "forge-fitness",
+    "pillarId": "ff-festive",
+    "format": "image",
+    "title": "Christmas greeting",
+    "caption": "Merry Christmas from the Forge 🎄\nAaj rest karein, kal phir train karenge.\nDM us to book your trial session.",
+    "hashtags": [
+      "#ForgeFitness",
+      "#DombivliGym",
+      "#MumbaiFitness"
+    ],
+    "cta": "DM us to book your trial session.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "festival",
+    "templateProps": {
+      "headline": "Merry Christmas",
+      "subhead": "Rest well, train tomorrow",
+      "badge": "25 Dec"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-25T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30",
+    "festivalId": "christmas-2026"
+  },
+  {
+    "id": "forge-fitness-20261228-49",
+    "businessId": "forge-fitness",
+    "pillarId": "ff-tips",
+    "format": "carousel",
+    "title": "3 habits to carry into the new year",
+    "caption": "Resolution nahi, habit banao 🗓️\nTeen chhoti aadatein jo saal bhar chalti hain.\nDM us to book your trial session.",
+    "hashtags": [
+      "#ForgeFitness",
+      "#DombivliGym",
+      "#StrengthTraining"
+    ],
+    "cta": "DM us to book your trial session.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "tip-carousel",
+    "templateProps": {
+      "headline": "3 habits for the new year",
+      "subhead": "Swipe for the plan",
+      "cta": "DM us to book your trial session.",
+      "slides": [
+        {
+          "title": "Fixed training days",
+          "body": "Put sessions in your calendar."
+        },
+        {
+          "title": "Sleep on schedule",
+          "body": "Recovery is part of the plan."
+        },
+        {
+          "title": "Track one thing",
+          "body": "Pick a simple measure and stick to it."
+        }
+      ]
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-28T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "forge-fitness-20261231-50",
+    "businessId": "forge-fitness",
+    "pillarId": "ff-festive",
+    "format": "image",
+    "title": "New Year's Eve greeting",
+    "caption": "Saal ka aakhri workout? 🏁\nNaye saal mein milte hain, aur zyada strong.\nDM us to book your trial session.",
+    "hashtags": [
+      "#ForgeFitness",
+      "#DombivliGym",
+      "#ForgeFitness"
+    ],
+    "cta": "DM us to book your trial session.",
+    "visualBrief": "Keep the layout clean, brand colours first, one hero visual.",
+    "templateId": "festival",
+    "templateProps": {
+      "headline": "Happy New Year",
+      "subhead": "See you stronger in 2027",
+      "badge": "31 Dec"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-31T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30",
+    "festivalId": "nye-2026"
+  }
+]

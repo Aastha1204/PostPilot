@@ -1,0 +1,711 @@
+[
+  {
+    "id": "shubh-vivah-20261201-01",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-tips",
+    "format": "carousel",
+    "title": "3 haldi décor mistakes to avoid",
+    "caption": "Haldi ki tayyari mein ye 3 galtiyan na karein 🌼\nBahut zyada props, kam roshni aur bina seating plan ka setup.\nChhoti planning, bada farak.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#HaldiDecor",
+      "#ShaadiSeason"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Warm yellow and marigold cues on the brand ivory. Cover slide big, then one tip per slide.",
+    "templateId": "tip-carousel",
+    "templateProps": {
+      "headline": "3 haldi décor mistakes",
+      "subhead": "Swipe before you plan",
+      "cta": "DM us or WhatsApp to book a site visit.",
+      "slides": [
+        {
+          "title": "Too many props",
+          "body": "Pick two or three hero pieces and let them breathe."
+        },
+        {
+          "title": "Light matters",
+          "body": "Warm lights make yellow and marigold glow."
+        },
+        {
+          "title": "Plan the seating",
+          "body": "Leave room for family photos and rituals."
+        }
+      ]
+    },
+    "photoTags": [
+      "haldi"
+    ],
+    "scheduledAt": "2026-12-01T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261203-02",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-portfolio",
+    "format": "image",
+    "title": "Ivory and gold floral mandap",
+    "caption": "Jab mandap bole, 'yahan sab kuch perfect hai' ✨\nIvory flowers, gold detailing aur soft lighting: ek real setup jo humne design kiya.\nAapka mandap kaisa dikhna chahiye?\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#MandapDecor",
+      "#WeddingSeason2026"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Hero photo of a real mandap in a gold-bordered frame. Photo slot until the licensed image is chosen.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "Ivory and gold floral mandap",
+      "subhead": "Mandap décor by Shubh Vivah",
+      "badge": "Portfolio"
+    },
+    "photoTags": [
+      "mandap",
+      "floral"
+    ],
+    "scheduledAt": "2026-12-03T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261205-03",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-stories",
+    "format": "image",
+    "title": "Empty hall to sangeet stage",
+    "caption": "Khaali hall se sangeet stage tak ka safar 🎶\nEk hi jagah, kuch ghante ki mehnat aur ek poori nayi duniya.\nSwipe nahi, bas imagine kijiye: aapka sangeet kaisa hoga?\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#SangeetNight",
+      "#ShaadiSeason"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Two real photos of the same venue. Do not name the family.",
+    "templateId": "before-after",
+    "templateProps": {
+      "headline": "Empty hall to sangeet stage",
+      "beforeLabel": "Before",
+      "afterLabel": "After",
+      "subhead": "Sangeet stage design"
+    },
+    "photoTags": [
+      "sangeet",
+      "before-after"
+    ],
+    "scheduledAt": "2026-12-05T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261207-04",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-portfolio",
+    "format": "carousel",
+    "title": "Mandap Magic",
+    "caption": "Mandap Magic ✨ Teen setups, teen moods.\nFloral canopy, drape-wale pillars aur ek grand entry path.\nSlide karke dekhiye, phir bataiye aapka favourite kaunsa.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#MandapDecor",
+      "#WeddingSeason2026"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Carousel of three real mandap setups, one per slide, in framed photos.",
+    "templateId": "tip-carousel",
+    "templateProps": {
+      "headline": "Mandap Magic",
+      "subhead": "Three setups, three moods",
+      "cta": "DM us or WhatsApp to book a site visit.",
+      "slides": [
+        {
+          "title": "Floral canopy",
+          "body": "Fresh flowers overhead for a soft, romantic glow."
+        },
+        {
+          "title": "Draped pillars",
+          "body": "Ivory fabric and gold trims for a classic look."
+        },
+        {
+          "title": "Grand entry path",
+          "body": "A floral walkway leading to the mandap."
+        }
+      ]
+    },
+    "photoTags": [
+      "mandap"
+    ],
+    "scheduledAt": "2026-12-07T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261208-05",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-tips",
+    "format": "carousel",
+    "title": "Fix the venue layout first",
+    "caption": "Décor se pehle layout pakka karein 📐\nMandap, stage aur entry ki jagah decide hote hi baaki sab aasaan ho jaata hai.\nMandap setup usually takes 2 days, isliye venue ka access jaldi confirm karein.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#MandapDecor",
+      "#ShaadiSeason"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Numbered tip slides, minimal ornament.",
+    "templateId": "tip-carousel",
+    "templateProps": {
+      "headline": "Fix the venue layout first",
+      "subhead": "Swipe for the order that works",
+      "cta": "DM us or WhatsApp to book a site visit.",
+      "slides": [
+        {
+          "title": "Place the mandap",
+          "body": "Everything else is arranged around it."
+        },
+        {
+          "title": "Mark the entry",
+          "body": "Decide where the couple and family enter."
+        },
+        {
+          "title": "Confirm access",
+          "body": "Check when the venue opens for setup."
+        }
+      ]
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-08T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [
+      {
+        "kind": "duration",
+        "text": "2 days",
+        "status": "warn"
+      }
+    ],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261210-06",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-bts",
+    "format": "reel",
+    "title": "Floral entry prep, behind the scenes",
+    "caption": "Shaadi se pehle ki raat, humare yahan phoolon ki raat 🌸\nFloral entry ki tayyari ka ek jhalak.\nHum venue par 24 ghante pehle se hote hain.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#WeddingSeason2026",
+      "#MandapDecor"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Reel: hook shot of flowers being arranged, three quick cuts, end on the finished entry. Add licensed music in the Instagram app.",
+    "templateId": "reel-cover",
+    "templateProps": {
+      "headline": "Floral entry, behind the scenes",
+      "subhead": "Behind the scenes",
+      "badge": "Reel"
+    },
+    "photoTags": [
+      "bts",
+      "floral"
+    ],
+    "scheduledAt": "2026-12-10T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [
+      {
+        "kind": "duration",
+        "text": "24 ghante",
+        "status": "warn"
+      }
+    ],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261212-07",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-stories",
+    "format": "image",
+    "title": "A haldi corner, transformed",
+    "caption": "Ek chhota sa corner, ek bada sa feel 💛\nHaldi ke liye ek simple jagah ko humne marigold aur drapes se saja diya.\nAapke ghar ka corner bhi ban sakta hai haldi spot.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#HaldiDecor",
+      "#WeddingSeason2026"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Two real photos of one corner. No names.",
+    "templateId": "before-after",
+    "templateProps": {
+      "headline": "A haldi corner, transformed",
+      "beforeLabel": "Before",
+      "afterLabel": "After",
+      "subhead": "Haldi décor"
+    },
+    "photoTags": [
+      "haldi",
+      "before-after"
+    ],
+    "scheduledAt": "2026-12-12T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261214-08",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-festival",
+    "format": "image",
+    "title": "Vivah Panchami greeting",
+    "caption": "Vivah Panchami ki hardik shubhkamnayein 🙏\nIs pavitra din par sabhi naye jodon aur parivaron ko humari taraf se shubh aashirwad.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#ShaadiSeason"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Respectful, gold and maroon, mandala centre.",
+    "templateId": "festival",
+    "templateProps": {
+      "headline": "Vivah Panchami ki shubhkamnayein",
+      "subhead": "Sabhi parivaron ko shubh aashirwad",
+      "badge": "Greeting"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-14T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30",
+    "festivalId": "vivah-panchami-2026"
+  },
+  {
+    "id": "shubh-vivah-20261215-09",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-portfolio",
+    "format": "image",
+    "title": "Sangeet stage glow",
+    "caption": "Stage pe light aate hi pura hall jhoom utha 🎤\nGold frames, soft spotlights aur ek backdrop jo photos mein bhi chamakta hai.\nAapka sangeet stage kaisa ho?\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#SangeetNight",
+      "#WeddingSeason2026"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Wide shot of a real sangeet stage in a gold frame.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "Sangeet stage glow",
+      "subhead": "Sangeet stage design",
+      "badge": "Portfolio"
+    },
+    "photoTags": [
+      "sangeet",
+      "stage"
+    ],
+    "scheduledAt": "2026-12-15T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261217-10",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-bts",
+    "format": "image",
+    "title": "Mandap build in progress",
+    "caption": "Sab kuch perfect dikhne se pehle ye dikhta hai 🛠️\nFrame khadi ho rahi hai, phool aane baaki hain.\nBehind the scenes, kyunki mehnat bhi sundar hoti hai.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#MandapDecor",
+      "#ShaadiSeason"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Candid team photo mid-setup, no faces forced.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "Mandap build in progress",
+      "subhead": "Behind the scenes",
+      "badge": "Behind the scenes"
+    },
+    "photoTags": [
+      "bts",
+      "mandap"
+    ],
+    "scheduledAt": "2026-12-17T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261219-11",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-offers",
+    "format": "image",
+    "title": "10% off for Feb–Mar weddings",
+    "caption": "Feb–Mar ki shaadi ki date fix hai? ✨\n10% off décor for weddings in Feb–Mar 2027 when booked before 31 Dec 2026.\nDate book karne ka sahi waqt abhi hai.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#WeddingSeason2026",
+      "#ShaadiSeason"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Offer card with the exact offer wording from the brand kit.",
+    "templateId": "offer",
+    "templateProps": {
+      "headline": "Book your Feb–Mar wedding décor",
+      "badge": "Offer",
+      "body": "10% off décor for weddings in Feb–Mar 2027 when booked before 31 Dec 2026",
+      "cta": "DM us or WhatsApp to book a site visit."
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-19T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [
+      {
+        "kind": "date",
+        "text": "31 Dec 2026",
+        "status": "ok"
+      },
+      {
+        "kind": "percent",
+        "text": "10%",
+        "status": "ok"
+      }
+    ],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261221-12",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-tips",
+    "format": "carousel",
+    "title": "Pick a colour story",
+    "caption": "Colour chunne mein confusion? Ye 3 tips try karein 🎨\nDo main colours aur ek accent: simple, elegant aur photo-friendly.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#MandapDecor",
+      "#WeddingSeason2026"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Colour swatch motif, ivory base.",
+    "templateId": "tip-carousel",
+    "templateProps": {
+      "headline": "Pick a colour story",
+      "subhead": "Swipe for three simple rules",
+      "cta": "DM us or WhatsApp to book a site visit.",
+      "slides": [
+        {
+          "title": "Two main colours",
+          "body": "Keep the palette tight so the décor feels calm."
+        },
+        {
+          "title": "One accent",
+          "body": "Gold or green accents lift any setup."
+        },
+        {
+          "title": "Match the outfits",
+          "body": "Think about how the couple will look in photos."
+        }
+      ]
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-21T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261222-13",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-stories",
+    "format": "image",
+    "title": "Reception backdrop reveal",
+    "caption": "Reception backdrop ka reveal 💫\nPlain wall se ek full-on floral backdrop tak.\nReal setup, real transformation.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#WeddingDecorMumbai",
+      "#WeddingSeason2026"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Real before and after, same angle.",
+    "templateId": "before-after",
+    "templateProps": {
+      "headline": "Reception backdrop reveal",
+      "beforeLabel": "Before",
+      "afterLabel": "After",
+      "subhead": "Reception backdrops"
+    },
+    "photoTags": [
+      "reception",
+      "before-after"
+    ],
+    "scheduledAt": "2026-12-22T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261224-14",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-portfolio",
+    "format": "image",
+    "title": "Floral entry and varmala",
+    "caption": "Varmala ka moment, phoolon ke saath aur bhi khaas 🌺\nFloral entry se mandap tak ka ek seedha, sundar raasta.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#MandapDecor",
+      "#ShaadiSeason"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Framed photo of the floral entry.",
+    "templateId": "portfolio",
+    "templateProps": {
+      "headline": "Floral entry and varmala",
+      "subhead": "Floral entry and varmala setups",
+      "badge": "Portfolio"
+    },
+    "photoTags": [
+      "entry",
+      "floral"
+    ],
+    "scheduledAt": "2026-12-24T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261225-15",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-festival",
+    "format": "image",
+    "title": "Christmas greeting",
+    "caption": "Merry Christmas! 🎄\nSabhi doston aur parivaron ko khushiyon se bhara tyohaar mubarak ho.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#ShaadiSeason"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Warm, inclusive and classy. Gold accents, no heavy religious imagery.",
+    "templateId": "festival",
+    "templateProps": {
+      "headline": "Merry Christmas",
+      "subhead": "Khushiyon se bhara tyohaar aapke naam",
+      "badge": "25 Dec"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-25T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30",
+    "festivalId": "christmas-2026"
+  },
+  {
+    "id": "shubh-vivah-20261227-16",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-bts",
+    "format": "reel",
+    "title": "Marigold garlands, made by hand",
+    "caption": "Ek garland, kai haath 🌼\nMarigold ki malaayein kaise banti hain, ek quick jhalak.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#HaldiDecor",
+      "#WeddingSeason2026"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Reel: close-up hands threading marigolds, three cuts, final garland. Add licensed music in the Instagram app.",
+    "templateId": "reel-cover",
+    "templateProps": {
+      "headline": "Marigold garlands, made by hand",
+      "subhead": "Behind the scenes",
+      "badge": "Reel"
+    },
+    "photoTags": [
+      "bts",
+      "haldi"
+    ],
+    "scheduledAt": "2026-12-27T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261229-17",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-offers",
+    "format": "image",
+    "title": "Free haldi consultation",
+    "caption": "Haldi ki tayyari shuru karni hai? 💛\nFree haldi décor consultation for December bookings.\nIs mahine ke slots jaldi bharte hain.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#HaldiDecor",
+      "#WeddingSeason2026"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Offer card, yellow accent touches within brand palette.",
+    "templateId": "offer",
+    "templateProps": {
+      "headline": "Plan your haldi with us",
+      "badge": "Offer",
+      "body": "Free haldi décor consultation for December bookings",
+      "cta": "DM us or WhatsApp to book a site visit."
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-29T11:00:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30"
+  },
+  {
+    "id": "shubh-vivah-20261231-18",
+    "businessId": "shubh-vivah",
+    "pillarId": "sv-festival",
+    "format": "image",
+    "title": "New Year's Eve greeting",
+    "caption": "Naya saal, nayi shuruaat ✨\nPurane saal ko shukriya, naye saal ko shubhkamnayein.\nDM us or WhatsApp to book a site visit.",
+    "hashtags": [
+      "#ShubhVivahDecor",
+      "#KalyanWeddings",
+      "#WeddingDecorMumbai",
+      "#ShaadiSeason"
+    ],
+    "cta": "DM us or WhatsApp to book a site visit.",
+    "visualBrief": "Elegant, restrained: gold on ivory, mandala centre.",
+    "templateId": "festival",
+    "templateProps": {
+      "headline": "Naya saal mubarak",
+      "subhead": "Shukriya 2026, swagat 2027",
+      "badge": "31 Dec"
+    },
+    "photoTags": [],
+    "scheduledAt": "2026-12-31T19:30:00+05:30",
+    "status": "draft",
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "factFlags": [],
+    "createdAt": "2026-11-14T09:00:00+05:30",
+    "updatedAt": "2026-11-14T09:00:00+05:30",
+    "festivalId": "nye-2026"
+  }
+]
